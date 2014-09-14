@@ -1,0 +1,15 @@
+{
+  "author": "Keiichiro Ui <daftbeats@gmail.com> (http://k-ui.jp/)",
+  "name": "Niji-Omurice",
+  "description": "虹オムライス画像あつめる",
+  "version": "1.0.0",
+  "scripts": { },
+  "dependencies": {
+    "showdown": "0.3.x"
+  },
+  "devDependencies": { },
+  "optionalDependencies": { },
+  "engines": {
+    "node": "0.10.*"
+  }
+}

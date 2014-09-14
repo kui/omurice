@@ -1,0 +1,82 @@
+#!/usr/bin/env node
+// -*- coding:utf-8; mode:js; -*-
+'use strict';
+
+var SiteName = '虹オムライス画像';
+var Usage = "usage: page markdown-file [ markdown-file [ ... ] ]"
+
+var fs   = require('fs');
+var path = require('path');
+
+var Showdown  = require('showdown');
+var Converter = new Showdown.converter();
+
+var Template;
+
+var main = function(args) {
+  var mdFiles = parseArgs(args);
+
+  loadTemplateFile();
+
+  mdFiles.forEach(function(file) {
+    var htmlFile = convert(file);
+    console.log("%s =>\t%s", file, htmlFile);
+  });
+};
+
+var loadTemplateFile = function() {
+  var scriptDir = path.dirname(process.argv[1]);
+  Template = fs.readFileSync(path.join(scriptDir, 'template.html')).toString();
+};
+
+var convert = function(mdFile) {
+  var md = fs.readFileSync(mdFile).toString();
+  var html = Template.replace('{{{md_content}}}', Converter.makeHtml(md));
+  var h1Match = html.match(/<h1.*?>(.*?)<\/h1>/mi);
+  var title = h1Match && h1Match[1];
+  // title = (title ? (title + ' - ') : '') + SiteName;
+  html = html.replace('{{{md_title}}}', title);
+
+  var dir = path.dirname(mdFile);
+  var ext = path.extname(mdFile);
+  var basename = path.basename(mdFile, ext);
+
+  var htmlFile = path.join(dir, basename + '.html');
+  fs.writeFileSync(htmlFile, html);
+
+  return htmlFile;
+};
+
+var parseArgs = function(args) {
+  if (!args || args.length === 0) error();
+
+  var mds = [];
+  args.forEach(function(val, idx, arr) {
+    switch(val) {
+    case '-h':
+    case '--help':
+      console.log(Usage);
+      process.exit(0);
+      // case '-x':
+      //   break;
+    default:
+      mds.push(val);
+    }
+  });
+
+  // search unknown opts
+  mds.some(function(val, idx, arr) {
+    if (val[0] === '-') error("unknown option: " + val);
+    else if (val === '--') return true;
+  });
+
+  return mds;
+};
+
+var error = function(msg) {
+  if (msg) console.error(msg);
+  console.error(Usage);
+  process.exit(1);
+};
+
+main(process.argv.slice(2, process.argv.length));
