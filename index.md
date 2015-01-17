@@ -23,6 +23,7 @@ SHIROBAKO
 ---------
 
 * ![アイカツ](img/aikatsu.jpg)
+* ![アイカツ1](img/aikatsu1.jpg) 116話
 
 
 アマガミ
