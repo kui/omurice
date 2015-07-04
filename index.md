@@ -3,6 +3,13 @@
 
 アニメ・マンガなどに出てくるオムレツ・オムライス画像まとめ。
 
+Charlotte
+-----------------
+
+* ![Charlotte](img/charlotte1.jpg)
+* ![Charlotte](img/charlotte2.jpg)
+
+
 城下町のダンデライオン
 -----------------------
 
