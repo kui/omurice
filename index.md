@@ -3,22 +3,25 @@
 
 アニメ・マンガなどに出てくるオムレツ・オムライス画像まとめ。
 
+
 Charlotte
 -----------------
 
-* ![Charlotte](img/charlotte1.jpg)
-* ![Charlotte](img/charlotte2.jpg)
+* ![Charlotte](img/charlotte1.jpg) 1話
+* ![Charlotte](img/charlotte2.jpg) 1話
 
 
 城下町のダンデライオン
 -----------------------
 
-* ![城下町のダンデライオン](img/joukamachi1.jpg)
+* ![城下町のダンデライオン](img/joukamachi1.jpg) 1話
+
 
 食戟のソーマ
 -------------
 
 * ![食戟のソーマ](img/shokugeki1.jpg) 13話
+
 
 プラスティック・メモリーズ
 -----------------
@@ -31,6 +34,7 @@ Charlotte
 -----------------
 
 * ![艦隊これくしょん](img/kankore1.jpg) 8話
+
 
 幸腹グラフィティ
 -------------------
@@ -46,15 +50,18 @@ Charlotte
 * ![幸腹グラフィティ9](img/koufuku9.jpg) 3話
 * ![幸腹グラフィティ10](img/koufuku10.jpg) 3話
 
+
 SHIROBAKO
 ---------------------------
 
 * ![SHIROBAKO](img/shirobako.jpg)
 
+
 天体のメソッド
 -------------
 
 * ![天体のメソッド](img/sora_no_method.gif)
+
 
 月刊少女野崎くん
 ---------------
@@ -67,6 +74,7 @@ SHIROBAKO
 
 * ![アイカツ](img/aikatsu.jpg)
 * ![アイカツ1](img/aikatsu1.jpg) 116話
+* ![アイカツ1](img/aikatsu2.jpg) 140話
 
 
 アマガミ
@@ -149,6 +157,7 @@ SHIROBAKO
 --------------------------
 
 * ![これはゾンビですか？](img/kore-zon.jpg)
+
 
 さくら荘のペットな彼女
 ---------------------
