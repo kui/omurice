@@ -76,6 +76,8 @@ SHIROBAKO
 * ![アイカツ](img/aikatsu.jpg)
 * ![アイカツ1](img/aikatsu1.jpg) 116話
 * ![アイカツ1](img/aikatsu2.jpg) 140話
+* ![アイカツ1](img/aikatsu3.jpg) 141話
+* ![アイカツ1](img/aikatsu4.jpg) 141話
 
 
 アマガミ
