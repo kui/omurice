@@ -10,6 +10,8 @@ Charlotte
 * ![Charlotte](img/charlotte1.jpg) 1話
 * ![Charlotte](img/charlotte2.jpg) 1話
 * ![Charlotte](img/charlotte3.jpg) 2話
+* ![Charlotte](img/charlotte4.jpg) 3話
+* ![Charlotte](img/charlotte5.jpg) 3話
 
 
 城下町のダンデライオン
