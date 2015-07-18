@@ -22,6 +22,7 @@ Charlotte
 -------------
 
 * ![食戟のソーマ](img/shokugeki1.jpg) 13話
+* ![食戟のソーマ](img/shokugeki2.jpg) 15話
 
 
 プラスティック・メモリーズ
