@@ -20,6 +20,7 @@ Charlotte
 * ![Charlotte](img/charlotte4.jpg) 3話
 * ![Charlotte](img/charlotte5.jpg) 3話
 * ![Charlotte](img/charlotte6.jpg) 7話
+* ![Charlotte](img/charlotte7.jpg) 12話
 
 
 城下町のダンデライオン
