@@ -9,6 +9,7 @@
 * <img src="img/pripara01.jpg" width="500"> 65話
 * <img src="img/pripara02.jpg" width="500"> 65話
 * <img src="img/pripara03.jpg" width="500"> 65話
+* <img src="img/pripara04.jpg" width="500"> 66話
 
 
 ゆるゆり
