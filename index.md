@@ -3,6 +3,13 @@
 
 アニメ・マンガなどに出てくるオムレツ・オムライス画像まとめ。
 
+終わりのセラフ
+---------------
+
+* <img src="img/owarinoseraph01.jpg" width="500"> 名古屋決戦編 15話
+* <img src="img/owarinoseraph02.jpg" width="500"> 名古屋決戦編 15話
+
+
 プリパラ
 ----------
 
