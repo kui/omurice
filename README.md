@@ -1,6 +1,8 @@
 アニメオムライス
 ====================
 
+**NO LONGER MENTENANCED**, see http://anime-omurice.tumblr.com/
+
 アニメ・マンガなどに出てくるオムライス画像まとめ。オムレツ画像も可。
 
 * [オムライス画像 - Github Pages](http://kui.github.io/omurice/)
